@@ -93,14 +93,3 @@ The processed results were saved in a CSV file with the following columns:
 The Tableau dashboard provides an interactive visualization of the A/B testing results, including metric performance and statistical significance. Explore the dashboard [here](https://public.tableau.com/views/ABTests_17336680632730/ABtest?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 --- 
-
-## Repository Structure
-```
-├── sql
-│   └── bigquery_queries.sql  # SQL scripts used for querying data
-├── python
-│   └── Statistical_significance.ipynb  # Jupyter Notebook from Google Colab
-├── data
-│   └── stat_results.csv  # Processed A/B test results
-├── README.md  # Project documentation
-```
