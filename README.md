@@ -9,6 +9,7 @@
 - [CSV File Format](#CSV-file-format)
 - [Results and Recommendations](#results-and-recommendations)
 - [Tableau Dashboard](#tableau-dashboard)
+- [Database Model](#database-model)
 
 ---
 
@@ -93,3 +94,9 @@ The processed results were saved in a CSV file with the following columns:
 The Tableau dashboard provides an interactive visualization of the A/B testing results, including metric performance and statistical significance. Explore the dashboard [here](https://public.tableau.com/views/ABTests_17336680632730/ABtest?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 --- 
+
+## Database Model
+
+The database model used in this project is provided as a PNG file. Refer to database_model.png for an overview of the data structure.
+
+---
