@@ -97,6 +97,6 @@ The Tableau dashboard provides an interactive visualization of the A/B testing r
 
 ## Database Model
 
-The database model used in this project is provided as a PNG file. Refer to database_model.png for an overview of the data structure.
+The database model used in this project is provided as a PNG file. Refer to `database_model.png` for an overview of the data structure.
 
 ---
