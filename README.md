@@ -40,7 +40,7 @@ We focused on the following conversion metrics:
 ---
 
 ## SQL Code
-The SQL code used for querying data from Google BigQuery is included in this repository under the `sql` folder.
+The SQL code used for querying data from Google BigQuery is included in this repository under the `sql` file.
 
 ---
 
